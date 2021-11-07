@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1000c144-adb0-4650-a7bd-fe0697554a61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636228546888</updated>
-      <workItem from="1636228549955" duration="10768000" />
+      <workItem from="1636228549955" duration="12004000" />
+      <workItem from="1636314519413" duration="97000" />
+      <workItem from="1636314629744" duration="324000" />
     </task>
     <servers />
   </component>
